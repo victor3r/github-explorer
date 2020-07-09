@@ -1,7 +1,12 @@
 import React from 'react';
+import { BrowserRouter as Router } from 'react-router-dom';
 
-function App() {
-  return <h1>Hello GoStack</h1>;
-}
+import Routes from './routes';
+
+const App: React.FC = () => (
+  <Router>
+    <Routes />
+  </Router>
+);
 
 export default App;
