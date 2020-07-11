@@ -73,7 +73,8 @@ export const Repositories = styled.div`
     }
 
     div {
-      margin-left: 22px;
+      margin: 0 22px;
+      flex: 1;
 
       strong {
         font-size: 24px;
