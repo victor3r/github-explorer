@@ -47,7 +47,7 @@ export const Form = styled.form<FormProps>`
     border: 0;
     color: #ffffff;
     font-weight: bold;
-    transition: background-color 0.2s;
+    transition: background 0.2s;
 
     &:hover {
       background: ${shade(0.2, '#04d361')};
