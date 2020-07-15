@@ -1,5 +1,5 @@
 <h1 align="center">
-Github Explorer
+    <img alt="Github Explorer" src=".github/logo.svg" width="220px" />
 </h1>
 
 <p align="center">The repository of a web app that allows you to add a new github repository and display the details of each one
